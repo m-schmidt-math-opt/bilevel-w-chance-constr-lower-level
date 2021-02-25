@@ -1,0 +1,14 @@
+<grossConsumerSurpluses xmlns="http://mathematik.tu-darmstadt.de/opt/grossConsumerSurpluses/XMLSchema" xmlns:framework="http://mathematik.tu-darmstadt.de/opt/framework/XMLSchema" xmlns:gas="http://mathematik.tu-darmstadt.de/opt/gas/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://mathematik.tu-darmstadt.de/opt/grossConsumerSurpluses/XMLSchema /home/wima/gruebel/lamatto/data/Gas/schema/GrossConsumerSurplus.xsd">
+  <grossConsumerSurplus id="exit01">
+    <intercept unit="EUR_per_1000m_cube_per_hour" value="2911.80"/>
+    <slope unit="EUR_per_squared_1000m_cube_per_hour" value="-16.60"/>
+  </grossConsumerSurplus>
+  <grossConsumerSurplus id="exit02">
+    <intercept unit="EUR_per_1000m_cube_per_hour" value="2908.20"/>
+    <slope unit="EUR_per_squared_1000m_cube_per_hour" value="-13.80"/>
+  </grossConsumerSurplus>
+  <grossConsumerSurplus id="exit03">
+    <intercept unit="EUR_per_1000m_cube_per_hour" value="2901.30"/>
+    <slope unit="EUR_per_squared_1000m_cube_per_hour" value="-20.70"/>
+  </grossConsumerSurplus>
+</grossConsumerSurpluses>

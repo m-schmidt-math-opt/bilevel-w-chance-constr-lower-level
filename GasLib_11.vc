@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<variableCosts xmlns="http://mathematik.tu-darmstadt.de/opt/variableCosts/XMLSchema"
+	       xmlns:gas="http://mathematik.tu-darmstadt.de/opt/gas/XMLSchema"
+	       xmlns:framework="http://mathematik.tu-darmstadt.de/opt/framework/XMLSchema"
+	       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	       xsi:schemaLocation="http://mathematik.tu-darmstadt.de/opt/variableCosts/XMLSchema ../../../../../schema/variableCosts.xsd">
+
+  <variableCost id="entry01" value="274.8" unit = "EUR_per_1000m_cube_per_hour"/>
+  <variableCost id="entry02" value="270.4" unit = "EUR_per_1000m_cube_per_hour"/>
+  <variableCost id="entry03" value="250.3" unit = "EUR_per_1000m_cube_per_hour"/>
+</variableCosts>
